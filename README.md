@@ -1,6 +1,6 @@
 ## Welcome
 
-I'm Verena, a PhD candidate at the University of Mannheim. I study the behaviour and interaction of legislators in the European Parliament using computational social science methods, e.g. natural language processing and network analysis.
+I'm Verena, a Postdoc at [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/home). I study the behaviour and interaction of legislators in the European Parliament using computational social science methods, e.g. natural language processing and network analysis.
 
 <!--
 **verenakunz/verenakunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
